@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cuyos_EncapsulationUserInput", "Cuyos_EncapsulationUserInput\Cuyos_EncapsulationUserInput.csproj", "{01DA2F4A-23B2-49EF-910E-B208C98756B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01DA2F4A-23B2-49EF-910E-B208C98756B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01DA2F4A-23B2-49EF-910E-B208C98756B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01DA2F4A-23B2-49EF-910E-B208C98756B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01DA2F4A-23B2-49EF-910E-B208C98756B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8DD9FBE-F38A-47C6-B1FD-F5E3983CECF9}
+	EndGlobalSection
+EndGlobal
